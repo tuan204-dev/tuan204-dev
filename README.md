@@ -10,8 +10,7 @@
 <a href="https://github.com/tuan204-dev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 ### Glad to see you here!
 
@@ -26,6 +25,8 @@ I am currently a student at the Posts and Telecommunications Institute of Techno
 - 🌱 I’m currently study at Posts and Telecommunications Institute of Technology - PTIT
 
 - 🌱 I’m currently learning [ReactJs](https://react.dev/) [Next.js](https://nextjs.org/)
+
+- 🌱 How to reach me: **tuandangit2004@gmail.com**
 
 </td></tr></div>
 
@@ -44,7 +45,9 @@ I am currently a student at the Posts and Telecommunications Institute of Techno
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Sass" height="50" /></a>  
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Git" height="50" /></a>
 
 </div>
 
@@ -69,5 +72,3 @@ I am currently a student at the Posts and Telecommunications Institute of Techno
 <br/>
 
 <br />
-
-
