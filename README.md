@@ -26,7 +26,7 @@ I am currently a student at the Posts and Telecommunications Institute of Techno
 
 - 🌱 I’m currently learning [ReactJs](https://react.dev/) [Next.js](https://nextjs.org/)
 
-- 🌱 How to reach me: **tuandangit2004@gmail.com**
+- 🌱 How to reach me: **contact.tuandang@gmail.com**
 
 </td></tr></div>
 
